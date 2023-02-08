@@ -21,5 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreavmc&show_icons=true&theme=dark&locale=en" alt="andreavmc" /></p>
 
+<img src="Andrea_Vaccaro_OPS_Attestato.jpg" align="center" height="50%">
+<img src="Andrea_Vaccaro_UNetwork_Attestato.jpg" align="center" width="100%">
 <img src="Andrea_Vaccaro_LTO_Attestato.png" align="center" height="50%">
 <img src="Andrea_Vaccaro_Attestato_Andromeda.png" align="center" width="100%">
