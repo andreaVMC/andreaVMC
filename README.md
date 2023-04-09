@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **several small projects**
 
-- 🌱 I’m currently learning **leanguages like: java, c++, css(bootstrap).**
+- 🌱 I’m currently learning **leanguages like: java, jquery.**
 
 - 💬 Ask me about **my programs if you need**
 
