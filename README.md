@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea Vaccaro</h1>
-<h3 align="center">An I.T. student pasionate about web-devoloping</h3>
+<h3 align="center">An I.T. student passionate about web-devoloping</h3>
 
 - 🔭 I’m currently working on **several small projects**
 
