@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andrea Vaccaro</h1>
 <h3 align="center">An I.T. student passionate about web-devoloping</h3>
 
-- 🔭 I’m currently working on **several small projects**
+- 🔭 I’m currently working on **several small projects, and web apps**
 
-- 🌱 I’m currently learning **leanguages like: java, jquery.**
+- 🌱 I’m currently learning **php with an M.I.T. student, for data analysis**
 
 - 💬 Ask me about **my programs if you need**
 
 - 📫 How to reach me **vaccaroandrea1227@gmail.com**
+
+- 🧑‍💻 Want to see my curriculum? <a href="https://andreavaccaro.studio/Archivio/Andrea_Vaccaro_curriculum.pdf">**click here**</a>​
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
