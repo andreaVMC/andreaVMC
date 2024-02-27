@@ -1,3 +1,4 @@
+<div style="text-align:center;">
 # 💫 About Me:
 🔭 I'm currently working on several small projects.<br>👯 I'm looking to collaborate on new ideas for web applications.<br>🤝 I'm seeking help with every new project I undertake.<br>🌱 I'm currently learning Java and Python.<br>💬 Feel free to ask me anything about my projects.<br>🐈‍⬛ Fun fact: I love CatPuccino!
 
@@ -20,6 +21,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=andreaVMC&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+</div>
 
 ### Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
