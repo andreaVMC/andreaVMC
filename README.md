@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on several small projects.<br>👯 I'm looking to collaborate on new ideas for web applications.<br>🤝 I'm seeking help with every new project I undertake.<br>🌱 I'm currently learning Java and Python.<br>💬 Feel free to ask me anything about my projects.<br>🐈‍⬛ Fun fact: I love CatPuccino!
+🔭 I'm currently working on management software for universities.<br>👯 I'm looking to collaborate on new ideas for web applications.<br>🤝 I'm seeking help with every new project I undertake.<br>🌱 I'm currently learning Java and Python.<br>💬 Feel free to ask me anything about my projects.<br>🐈‍⬛ Fun fact: I love CatPuccino!
 
 
 ## 🌐 Socials:
