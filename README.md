@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **mobile/web oriented ideas**
 
-- 🤝 I’m looking for help with **togliere**
-
 - 👨‍💻 All of my projects are available at [andrea-vaccaro.com](andrea-vaccaro.com)
 
 - 💬 Ask me about **anything**
